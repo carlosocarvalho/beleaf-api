@@ -6,6 +6,10 @@ Para esse projeto estamos usando como backend o nodejs com os seguintes plugins,
 
 Estamos usando como base o frameworks <a href="https://nestjs.com/" target="_blank">NestJs</a>, porque esse framework abstrai boa parte do stack inicial de uma boa aplicação. Seguindo o conceito do angular esse framework esta baseando em módulos.
 
+## Api Docs
+
+- <a href="https://documenter.getpostman.com/view/3107316/SVSBusFb?version=latest" target="_blank"> Documentação </a>
+
 ## Dependencias
 - Sequelize (ORM para ajudar na modelagem de entitades)
 -
@@ -30,3 +34,4 @@ Estamos usando como base o frameworks <a href="https://nestjs.com/" target="_bla
 >> yarn start:dev
 
 ```
+
