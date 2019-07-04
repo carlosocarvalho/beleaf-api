@@ -17,7 +17,16 @@ Estamos usando como base o frameworks <a href="https://nestjs.com/" target="_bla
 - Banco de Dados Relacional
 
 
-### Instalação do projeto
+### Instalação do projeto local
+
+```bash
+
+>> git clone project && cd project
+
+>> configure .env file
+
+>> yarn OR npm install
+
+>> yarn start:dev
 
 ```
->> git clone project
